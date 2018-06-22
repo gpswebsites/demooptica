@@ -1,2 +1,0 @@
-# laclinicadellente
-GitHub Pages
